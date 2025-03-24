@@ -58,6 +58,7 @@ Before running the project, ensure you have the following installed:
 
 - Open your browser and navigate to `http://localhost:3000` to access the Passenger Management application.
 - The frontend will communicate with the backend server running on `http://localhost:5000`.
+- You can also access the deployed application at https://chipper-druid-4fbb76.netlify.app/.
 
 ## Additional Scripts
 
